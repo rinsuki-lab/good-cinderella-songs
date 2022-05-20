@@ -1,0 +1,598 @@
+title: rinsukiおすすめのシンデレラガールズの曲n選
+description: |
+  <p><strong>ここに書いてある曲(の試聴orMV/PV)を全部入れた YouTube のプレイリストを用意してあります <a href="https://www.youtube.com/playlist?list=PLDfOF79Q598Oqm7ohaGgqXcgDNmaKgbMq">https://www.youtube.com/playlist?list=PLDfOF79Q598Oqm7ohaGgqXcgDNmaKgbMq</a> 。こっちを適当にシャッフル再生で聞くのがおすすめ。</strong></p>
+  <p>10個になんて絞れるか！全部聞いてくれ！ただ全部書いていくと大変なことになるのである程度今の気分で取捨選択しました。抜けてるのも多数あるので後で足すかも。あと語彙力が怪しい (基本的に最高しか言ってない)。順番は説明の都合で一部決めてある以外はなんとなく適当な位置に入れているだけなので気にしないでください。</p>
+  <p>※デレスポ内で曲を聞くにはデレスポにデレステのアカウントを連携させて、かつ連携したデレステ内で一回でもその曲をプレイもしくはクリアしている必要がある？連携自体はデレステのチュートリアル終了後ならいつでもデレステ側の「メニュー」からできる。事前に両アプリを同じ端末にインストールしていないといけないことに注意。</p>
+  <p>※さらに一部楽曲はデレステ内のルームアイテム「サウンドブース」で開放する必要がある。課金の石じゃないほうのゲーム内通貨(マニー)が必要。</p>
+  <p>非公式YouTubeリンクについて: 原則公式の音源がない時にしか書いていない…はず。基本的に wilson jj の動画なはず。</p>
+  <p>OTOTOYのリンクについて: 原則として基本CD相当(16bit/44.1kHz)ロスレス版のリンクを貼っている、ハイレゾ版はそれしか配信がない時にしか貼っていない。特にソロ曲は他サイトならCD音源AACが売ってたりするので注意。</p>
+  <p>全ての情報は2022年5月20日現在の情報。</p>
+sections:
+- id: available_on_cd_and_digital_and_spot
+  title: CD・配信共にリリース済みで、デレステ/デレスポにもある曲
+  needs_spot_group: true
+  needs_not_spot_release: true
+  needs_digital_release: true
+  songs:
+    - title: BEYOND THE STARLIGHT
+      description: 最高。デレステの1周年楽曲。絶妙にリアタイじゃない (この時は一時的に離れてた…はず？) のかあまり当時の思い出はないがそれはそれとして好き。歌詞が強い。やらなきゃだね、人生…。エイプリルフールで new generations の3人が歌った版もある (デレスポ内の「Special Tracks」で聞ける)。<del>ちょうど同時開催の Live Parade イベントで new generations 版が一時的に選択可能になっていて、MV演出ありで選曲するとMVの演出が音ゲー部分より上に来るバグが起きていたりしていたのも今となってはいい思い出</del>
+      links:
+      - ototoy: 122051
+      - mb_rg: 31447dc2-1878-4fc1-86fa-ff9988ab7ca2
+      - mb_work: 5273ae2a-10af-47d7-931b-fda6f736ee98
+      - youtube: eDzsLG4EZM8
+        unofficial: false
+        text: 公式試聴
+      - youtube: jfKf8tMAxA8
+        unofficial: false
+        text: 公式 3DMV (音がちょっとおかしい)
+      - spot_group: "STARLIGHT STAGE"
+    - title: イリュージョニスタ
+      description: 最高。デレステの2周年楽曲。曲も歌詞も本当に好き。3DMVで「不可能さえも越えてみせるわ」の後に当時初の6人目が出てくる演出は当時マジで感動した。そんなデレステも今や15人出るように…。時代の流れというのは早いもので。
+      links:
+      - ototoy: 128591
+      - mb_rg: 2aaa4627-dd6f-4744-afea-af3330aea838
+      - mb_work: 9e2ad190-1fcd-4676-947e-0138dca8e683
+      - youtube: d4rkrNDFYC0
+        unofficial: false
+        text: 公式試聴
+      - youtube: 4-mRTig2Ysc
+        unofficial: false
+        text: 公式 3DMV (音がちょっとおかしい)
+      - spot_group: "STARLIGHT STAGE"
+    - title: ガールズ・イン・ザ・フロンティア
+      description: 最高！！！！！デレステの3周年楽曲。曲も好きだけど歌詞が本当に強くて好き。3DMV内で過去のMV引用は初？前にもあった気がするけど今となってはうろ覚え。このころはイベント楽曲を試験的に先行配信していたので、その名残りで今でもDL配信はアルバムアートがゲーム内準拠になっている (アルバム名も曲名シングルのまま)。
+      links:
+      - ototoy: 128592
+      - mb_rg: 6d51fea2-c26b-4843-8be8-81e09985bd0e
+      - mb_rg: 3d53e6c6-399f-4316-b15a-d1bb0e915984
+      - mb_work: 18fea943-350a-4700-aed4-bac94e4f579f
+      - youtube: kiFcPyfWCCY
+        unofficial: false
+        text: 公式試聴
+      - youtube: MKWHxSzEBTw
+        unofficial: false
+        text: 公式 3DMV (音がちょっとおかしい)
+      - spot_group: "STARLIGHT STAGE"
+    - title: O-Ku-Ri-Mo-No Sunday!
+      description: 久川姉妹およびそのユニット「miroir」のデビュー曲。最高すぎる。これもデジタル先行配信なのでデジタル版はゲーム内アルバムアート&シングル扱い。
+      links:
+      - ototoy: 337550
+      - mb_rg: 4c3af722-a44d-441d-a2a6-db6e1be9a3c9
+      - mb_rg: 10f65fe1-3887-4e51-b3d1-6965f6aeeaee
+      - mb_work: 82edbcda-7680-4202-8e58-266ad58c555b
+      - youtube: Fa1YczPNxYw
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: クレイジークレイジー
+      description: おかしくなっちゃう。後にミリオンライブとのコラボ版もあり。これもデジタル先行配信。
+      links:
+      - ototoy: 122073
+      - mb_rg: b3d0d911-c346-4c1a-a441-9523076e3cf9
+      - mb_recording: f7d3eabf-07f2-40cb-9ff9-398d0ca7b1b0
+      - mb_work: 07320909-b944-496a-b86e-1dc3521c1062
+      - youtube: KFdgUoX8sWo
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Trinity Field
+      description: ユニット「Triad Primus」あるいは「トライアドプリムス」の2曲目。最高。これもデジタル先行配信。
+      links:
+      - ototoy: 122068
+      - mb_rg: 955e8552-62ef-4583-86ee-3092821397ff
+      - mb_rg: 1d27dd08-d481-484b-b23c-88cbd36df58a
+      - mb_work: b0e3a315-48da-4883-8ee2-7dc176024e2e
+      - youtube: kV_XgNUdULA
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Secret Daybreak
+      description: ユニット「デア・アウローラ」(あるいは Dea Aurora) の1曲目。最高。美しい。
+      links:
+      - ototoy: 479317
+      - mb_rg: 7855bd78-c253-47f8-b292-bf8209d200e7
+      - mb_work: 33a45e99-d38f-4dad-a9b7-0fc458fefc9b
+      - youtube: Z8E9s4NIOTs
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Brand new!
+      description: 最高。第1回ボイスアイドルオーディションの上位3人による曲。デレステ版とフル版ではパート割り当てが結構違うので注意。
+      links:
+      - ototoy: 645615
+      - mb_rg: aca966a7-d440-47bd-b6b3-e019aa1c1298
+      - mb_work: 7fd84181-06ff-4ef8-b2fc-711dff88ff09
+      - youtube: bCsjPsT6KRU
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "CINDERELLA GIRLS"
+    - title: Let's Sail Away!!!
+      description: 最高ツー。第2回ボイスアイドルオーディションの上位3人による曲。
+      links:
+      - ototoy: 1137845
+      - mb_rg: 4d08a662-5cba-462b-9e2c-fcf6f127eccf
+      - mb_work: ae442f78-8c0b-4d31-85ab-12e025a3c587
+      - youtube: eewtkTSOXvA
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "CINDERELLA GIRLS"
+    - title: リトルリドル
+      description: ユニット「LittlePOPS」の1曲目。本当に良い曲。
+      links:
+      - ototoy: 122063
+      - mb_rg: ecba1e0f-ae43-48de-b133-9554329f9730
+      - mb_work: 63dc9119-652c-43e1-bddc-e0e961b8edea
+      - youtube: PA4AkZtqWI0
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Palette
+      description: ユニット「ピンクチェックスクール」の2曲目。マジでオシャレで好き。これもデジタル先行配信。
+      links:
+      - ototoy: 213642
+      - mb_recording: c97dfae1-efc5-4b96-8b19-1721f2c62fce
+      - mb_work: 29f6196c-f379-4d57-a68b-19463576cdbb
+      - youtube: x-vKe1A73xs
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Kawaii make MY day!
+      description: 画面の女の子かわいすぎ大問題です。ユニット「メロウ・イエロー」の1曲目。本当に良い曲。フルも必聴。これもデジタル先行配信。
+      links:
+      - ototoy: 122065
+      - mb_recording: 8ecb7c62-d16a-47c0-9ec5-220426a6b0c4
+      - mb_work: 59e9dad8-ffc9-4ce5-b98d-e53c32d05a62
+      - youtube: mU9aCPPdsvM
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: 幸せの法則 〜ルール〜
+      description: マジでめちゃくちゃいい曲。最高。ユニット「ミス・フォーチュン」の1曲目。
+      links:
+      - ototoy: 518838
+      - mb_recording: c9feffee-91ba-4199-8630-c54e3372b82e
+      - mb_work: ed052748-110f-4a73-b5c2-09c7e0ff8b51
+      - youtube: xycqwzRmICM
+        unofficial: true
+        text: 非公式 2Dリッチ
+      - spot_group: "STARLIGHT STAGE"
+    - title: Twin☆くるっ★テール
+      description: 城ヶ崎姉妹のユニット「ファミリアツイン」の1曲目。最高。
+      links:
+      - ototoy: 122067
+      - mb_recording: 74606966-e073-45c6-8f02-90e30a17f80a
+      - mb_work: 014acf41-cd58-4013-92a2-6c3213464160
+      - youtube: 1RC8AzpLNhM
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Go Just Go!
+      description: 夏！って感じのマジで良い曲。デレステの5周年楽曲。アニメPVも必見。
+      links:
+      - ototoy: 603875
+      - mb_recording: 8acf257d-11dc-47e8-8af3-3acedf57b24f
+      - mb_work: 10ab65e6-2263-4eb1-a924-4188d56b5eb0
+      - youtube: k1oo7wbf7z8
+        unofficial: false
+        text: 公式 アニメPV
+      - youtube: madTG2X38IE
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: レッド・ソール
+      description: マジでおしゃれでかっこいい曲。
+      links:
+      - ototoy: 1094221
+      - mb_rg: dba885cb-f1d4-45ed-b923-4f93db0d1e9a
+      - mb_work: 1832ea23-a658-4c2c-8060-b3b39ad7c6dd
+      - youtube: gWogCmlAoc4
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: 星環世界
+      description: デレステの6周年記念楽曲。ついに宇宙まで行ってしまった。かっこいい。
+      links:
+      - ototoy: 1111408
+      - mb_rg: 4fde1910-deb9-41ca-ae95-00cc273d5441
+      - mb_work: 3dc35e7f-aa30-4406-bf39-de859463dc65
+      - youtube: e9rBoNCLeo4
+        unofficial: false
+        text: 公式アニメPV
+      - youtube: X5vHJkIT6EU
+        unofficial: false
+        text: 公式 2Dリッチ
+      - youtube: sF2-s658jik
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Stage Bye Stage
+      description: 本当に良い曲。CG STAR LIVE CINDERELLA GIRLS Brilliant Party! の(ラストで流れていた？)楽曲。結局曲名は Upper Camel Case 表記でいいのか？
+      links:
+      - ototoy: 503072
+        hi_res: true
+      - mb_rg: 65725c70-0091-4ad9-9109-776db522ae36
+      - mb_work: 2110b403-d806-4e10-8158-18bef1877e34
+      - youtube: NMIEAhH_fTU
+        unofficial: false
+        text: 公式試聴
+    - title: Stage Bye Stage (デレステイベント版)
+      description: デレステ/デレスポに実装されているのはこっち。new generations に加え、NGs の3人が属する Triad Primus・ポジティブパッション・ピンクチェックスクール のメンバーを加え合計9人での歌唱版。
+      links:
+      - ototoy: 421146
+      - mb_rg: 41a6af50-662c-4dc1-9f0f-7adc4119c1e5
+      - mb_work: 2110b403-d806-4e10-8158-18bef1877e34
+      - spot_group: "CINDERELLA GIRLS"
+    - title: Twilight Sky
+      description: 何気に好きな曲。ライブの初回公演では有志Pの呼び掛けによってサイリウムの色で夕焼けのグラデーションが再現され、それから通例になったらしく、デレステに実装される際には公式に輸入された (!) ちなみに昔すぎてこの頃の日本コロムビアの試聴音源は RealAudio と WMA (MMS) で、サーバーも死んでいるので (あの、Jストリームさん……) 今や試聴音源を聞くことはできない。
+      links:
+      - ototoy: 75912
+        hi_res: true
+      - mb_recording: 897d17f9-ccda-4139-bbb8-a5a0defc1ddb
+      - mb_work: 10ce9889-34be-4320-b535-3dfe8854151c
+      - youtube: vEdiVDIeBlc
+        unofficial: true
+        text: 非公式 3DMV
+      - spot_group: Solo Tracks
+        stage_commu: 7
+    - title: あんずのうた
+      description: い、いやだっ、私は働かないぞ！！！電波ソング。
+      links:
+      - ototoy: 173707
+        hi_res: true
+      - mb_recording: ab45a645-01b9-4f41-b091-80c3a14e854a
+      - mb_work: e88be008-ae75-45f6-8959-58f128a447eb
+      - youtube: gHApgLoXltg
+        unofficial: true
+        text: 非公式 3DMV
+      - spot_group: Solo Tracks
+        stage_commu: 11
+    - title: Hotel Moonside
+      description: 1 2 𝒌𝒊𝒔𝒔 𝒌𝒊𝒔𝒔... 速水奏のソロ1曲目。ゴリゴリEDM。Extended Live Version も配信限定である (後述)。
+      links:
+      - ototoy: 114251
+        hi_res: true
+      - mb_recording: 2ade526a-7fd6-4e9f-bc08-330af0b81c11
+      - mb_work: a51ed7f1-cc2a-4c91-baa3-f006b5b9b1fa
+      - youtube: kU5ii7DAyxU
+        unofficial: false
+        text: 公式試聴
+      - spot_group: Solo Tracks
+        stage_commu: 25
+    - title: 秘密のトワレ
+      description: 𝒎𝒚 𝒔𝒆𝒄𝒓𝒆𝒕 𝒆𝒂𝒖 𝒅𝒆 𝒕𝒐𝒊𝒍𝒆𝒕𝒕𝒆... 秘密のトワレのソロ1曲目。謎の中毒性がある。譜面が難しい。
+      links:
+      - ototoy: 173695
+        hi_res: true
+      - mb_recording: d0739976-23bf-4e3d-8082-9517dea17dee
+      - mb_work: 2146482c-c940-473d-b309-0217fdd78a08
+      - youtube: wD3olymAvN0
+        unofficial: false
+        text: 公式試聴
+      - spot_group: Solo Tracks
+        stage_commu: 33
+    - title: Claw My Heart
+      description: 早坂美玲のソロ1曲目。めちゃくちゃに彼女らしいかっこいい曲になっている。最高。
+      links:
+      - ototoy: 534616
+      - ototoy: 534613
+      - mb_rg: 9600eeef-0831-4a2d-a67f-6a7c1158042f
+      - mb_work: ba1715e9-52c8-4a4b-9b96-a624bd48316a
+      - youtube: 1Hq0WwHfqkM
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "Solo Tracks"
+        stage_commu: 62
+    - title: Packing Her Favorite
+      description: 久川颯のソロ1曲目。双子の姉・久川凪の「14平米にスーベニア」へのアンサーソング感もあり、そちらと合わせて聴くと2度おいしい。
+      links:
+      - ototoy: 1212557
+      - mb_rg: 675d3e39-ce23-4cb7-ad5b-7a8669dcaa79
+      - mb_work: c17d7ed8-c14a-4def-b1a6-4acec33c418e
+      - youtube: O4kr_JhW5mY
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "Solo Tracks"
+        stage_commu: 69
+    - title: ソウソウ
+      description: <del>TAKU INOUEーーーー！！！！！！！！</del> ナターリアのソロ1曲目。フル版の最後の最後まで聴き逃がせない曲。最高。
+      links:
+      - ototoy: 1212557
+      - mb_rg: 675d3e39-ce23-4cb7-ad5b-7a8669dcaa79
+      - mb_work: a15c7811-6727-465f-a492-ee9757bff0fe
+      - youtube: IQ1yV92mATI
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "Solo Tracks"
+        stage_commu: 68
+    - title: ステップ！
+      description: 本田未央のソロ2曲目。なんか海外インターネットでめちゃくちゃインターネットミームになったらしいけど、普通に良い曲なので聞いてほしい。<del>ちなみに勝手に Spotify に違法アップロードされているらしい (海外で流行るとありがち。だから先にサブスクを解禁しておく必要があったんですね)</del>
+      links:
+      - ototoy: 116363
+      - mb_recording: 64ad98e3-c8b2-4375-aa8f-e729f45de526
+      - mb_work: b07d7e36-20af-406e-830b-3ab63f8bfc3a
+      - youtube: rKctwc2In6c
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "Solo Tracks"
+        stage_purchase: true
+    - title: さよならアンドロメダ
+      description: 最高。季節シリーズ「CINDERELLA MASTER SEASONS」の秋盤に入っている。
+      links:
+      - ototoy: 457145
+      - mb_rg: 88df622e-ecf9-4c9a-a9b5-03e2aef01c04
+      - mb_work: ebc8125b-0578-42cd-8e87-94ff9db91745
+      - youtube: 3g1-u8qPxkU
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "CINDERELLA GIRLS"
+    - title: ミラーボール・ラブ
+      description: 𝑨𝒉 𝑨𝒉 𝑨𝒉 𝑨𝒉 ... CDシリーズ「CINDERELLA MASTER 3Chord」のDance盤。このCDに入っている他の曲も ゆよやっぺ a.k.a. DJ'TEKINA//SOMETHING が書いた「Athanasia」とミフメイが書いた「踊るFLAGSHIP」になっておりダンス！という感じの曲調の曲が揃った俺的名盤。
+      links:
+      - ototoy: 505390
+      - mb_rg: 0215d4ab-b21d-4840-a135-232a23da5fb2
+      - mb_work: 5a2243f6-d8f6-41a2-8c6c-3547d0cc9c1a
+      - youtube: ekazeq081bk
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: "#HE4DSHOT"
+      description: 砂塚あきらのソロ1曲目。今時かつかっこいい曲になっている。FPS配信者という出で立ちもあり、曲名や歌詞にもFPS用語が出てくるところもまたよい。
+      links:
+      - ototoy: 763064
+      - mb_rg: 6d165a3a-a2d0-48ec-91ca-03d4eb340c77
+      - mb_work: 300f5333-3c24-4705-a203-13c469a29f90
+      - youtube: 614X06BVSGQ
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "Solo Tracks"
+        stage_commu: 64
+    - title: アンデッド・ダンスロック
+      description: ユニット「エルドリッチ・ロアテラー」の1曲目。かっこよくて好き。
+      links:
+      - ototoy: 168419
+      - mb_recording: fd536362-83cc-4ad8-ac74-b95d1bd4219d
+      - mb_work: b12be0e3-6609-4063-ab32-b8b5ec2754fe
+      - youtube: rjqlh5kXjP8
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: バベル
+      description: 音の治安が悪い曲。良い。ユニット「Dimension-3」の1曲目。
+      links:
+      - ototoy: 418770
+      - mb_recording: 9a4d594b-74c7-4ef0-bc3b-eedb10ea23bc
+      - mb_work: 9795b466-1228-4434-bbfb-f685374b58e5
+      - youtube: X8viYNLC6Ow
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Love∞Destiny
+      description: 愛が深くて重い曲。ユニット「Masque:Rade」のデビュー曲。フルも必聴。
+      links:
+      - ototoy: 122049
+      - mb_recording: a076d2d5-e683-4888-a7e7-5ab72fdffe80
+      - mb_work: 50b8b85d-9f2f-4a75-8584-ddff7eed85b2
+      - youtube: NrBQMj1wdrg
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "STARLIGHT STAGE"
+    - title: Snow＊Love
+      description: 好き。初出はアニメ「シンデレラガールズ劇場」。
+      links:
+      - ototoy: 651869
+        hi_res: true
+      - mb_rg: 2a79ee36-feb0-4f27-b896-9d5cd52d4db9
+      - mb_work: 4ca02e0a-29f1-4e57-8516-94c3c3f19f92
+      - youtube: APDP5VwAd-Q
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "from Animation"
+    - title: TAKAMARI☆CLIMAXXX!!!!!
+      description: マジで早い。音ゲーにありそうという感じの楽曲だが、意外にも初出はアニメ「シンデレラガールズ劇場 CLIMAX SEASON」。
+      links:
+      - ototoy: 397230
+      - mb_rg: 41f514dd-dba4-4e91-b6b2-db13a9a37471
+      - mb_work: 88e4134f-f890-4935-a498-69e71194946c
+      - youtube: gBvq0uP4Hos
+        unofficial: false
+        text: 公式試聴
+      - spot_group: from Animation
+    - title: Flip Flop 〜For SS3A rearrange〜
+      description: ピアノがシャレオツで好き。こういう感じのピアノが入ってる曲があったらぜひ教えてください。Flip Flop という曲のライブ「THE IDOLM@STER CINDERELLA GIRLS SS3A Live Sound Booth♪」用に作られたアレンジ。
+      links:
+      - ototoy: 489255
+        hi_res: true
+      - mb_rg: dae81b7e-bd19-45cb-93a4-8fd8323d83bc
+      - mb_work: 25a4641a-8c76-4b6d-8fae-20d0307ed549
+      - youtube: ireWQZmPUig
+        unofficial: false
+        text: 公式試聴
+      - spot_group: ReArrange&ReMix
+    - title: ゴキゲンParty Night -Dance!!!!!!!!!!!!!!! Remix-
+      description: タイトル通りのremix。すごい。マジで好き。
+      links:
+      - ototoy: 535891
+      - mb_rg: 1d27dd08-d481-484b-b23c-88cbd36df58a
+      - mb_work: 311c8c9a-ad66-4c16-b726-00bb282afe50
+      - youtube: pGSha5LzA54
+        unofficial: false
+        text: 公式試聴
+      - spot_group: ReArrange&ReMix
+    - title: EVERLASTING
+      description: シンデレラガールズの10周年記念楽曲。これまでの集大成になってて最高！！
+      links:
+      - ototoy: 1053665
+      - mb_rg: 54e78d2a-d441-4b00-bd4f-a570d0f3b0fa
+      - mb_work: 8be45880-d40e-4d30-9967-f2482a8d6495
+      - youtube: uZuqmwhljVo
+        unofficial: false
+        text: 公式 2Dリッチ
+      - youtube: 7xv5GtesWN4
+        unofficial: false
+        text: 公式 10周年記念PV (フルだけどSE付き)
+      - spot_group: "CINDERELLA GIRLS"
+    - title: ココカラミライヘ！
+      description: これまで毎年行なってきたシンデレラガール総選挙で一位を取った10人による楽曲。エモい。
+      links:
+      - ototoy: 1137845
+      - mb_recording: d16b1188-561b-4d2b-a3e8-f7b16a22d386
+      - mb_work: f253afb0-8f09-4574-a26d-91f74c3f8596
+      - youtube: DEDj1gm7xVU
+        unofficial: false
+        text: 公式 2Dリッチ
+      - spot_group: "CINDERELLA GIRLS"
+- id: from_anime
+  title: アニメ曲特集 (ちなみにCD・配信共にリリース済みでデレステ/デレスポにもある)
+  description: アニメを見てから聞くと二度おいしいかも。ちなみにアニメ自体はちょっと重めなので精神状態が良い時に見ることをおすすめします。アニメ「シンデレラガールズ劇場」の曲はこっちには入れていない。
+  needs_spot_group: true
+  needs_not_spot_release: true
+  needs_digital_release: true
+  songs:
+    - title: Star!!
+      description: CINDERELLA PROJECT の…1曲目でいいのか？最高。フル版でしか聞けない歌詞のところが好き。
+      links:
+      - ototoy: 72893
+        hi_res: true
+      - mb_rg: 3a877d55-86dd-4728-8207-7eea8f55379e
+      - mb_work: 7714f0b3-ba42-41ca-b6d7-c5072c422ad9
+      - youtube: VZiP2XbI0sk
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "from Animation"
+    - title: Heart Voice
+      description: 本当に好きな曲。
+      links:
+      - ototoy: 85669
+        hi_res: true
+      - mb_rg: f948c2c4-bf6a-4c59-8bf8-0ec4d3f9c762
+      - mb_work: 799401d9-fbc4-4673-a88a-6b6ad15f992c
+      - youtube: WWo_z7dwKYA
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "from Animation"
+    - title: Trancing Pulse
+      description: ユニット「Triad Primus」の1曲目。マジでかっこいい。最高。愛してる。
+      links:
+      - ototoy: 94242
+        hi_res: true
+      - mb_rg: 0ac33461-3779-48d9-80f3-5cf6cc223644
+      - mb_work: 38491539-944a-4e0a-b394-a0d4989c1170
+      - youtube: QwuEEA1jSCQ
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "from Animation"
+    - title: 流れ星キセキ
+      description: new generations の…何曲目だ？とにかく最高。アニメ版には拡張イントロがあるので要チェック (アニメでももちろん使われているが、アニメのサントラにも入っている)。
+      links:
+      - ototoy: 192453
+      - mb_rg: a427dec2-0927-48c0-8673-d0fc679e6fe7
+      - mb_work: 67322938-ad6b-434d-ad82-34ed3a284287
+      - youtube: Ys0JkYhGCoA
+        unofficial: false
+        text: 公式試聴
+      - spot_group: "from Animation"
+    - title: M@GIC☆
+      description: CINDERLLA PROJECT の………何曲目だ？？とにかく最高すぎる。アニメを見た後にデレステの GRAND LIVE 版3DMVも見よう。
+      links:
+      - ototoy: 192454
+      - mb_rg: 2117382a-4e1f-4ca2-82de-c26f43940ae2
+      - mb_work: cd4cc7f7-092f-4a98-91b4-7be4bdf0f190
+      - youtube: DEjJ9ZyVyhM
+        unofficial: false
+        text: 公式試聴
+      - youtube: 7TUT6Uq7vVM
+        unofficial: false
+        text: 公式 GRAND CHEER VERSION 3DMV (CHEER VERSION = 歓声入り)
+      - spot_group: "from Animation"
+- id: available_on_cd_and_digital_but_not_on_spot
+  title: CD・配信共にリリース済みだが、デレステ/デレスポには実装されていない曲
+  description: 買って聞こう！まずは試聴からでも。<del>でも待ってればたぶんデレステにも来る</del>
+  needs_not_spot_release: true
+  needs_digital_release: true
+  songs:
+    - title: Neo Beautiful Pain
+      description: 神谷奈緒のソロ2曲目。マジでかっこいい。最高。
+      links:
+      - ototoy: 306076
+        hi_res: true
+      - mb_rg: 12ae6498-1110-4650-99a9-3294d4213907
+      - mb_work: ee8f591c-8370-415d-b099-1d5173bc9c07
+      - youtube: mtk9iEZs4Ac
+        unofficial: false
+        text: 公式試聴
+    - title: トキメキは赤くて甘い
+      description: 辻野あかり<del>んご</del>のソロ1曲目。最近流行りの(？)ASMR風味。
+      links:
+      - ototoy: 1212557
+      - mb_rg: 675d3e39-ce23-4cb7-ad5b-7a8669dcaa79
+      - mb_work: 0c4066c0-ba71-4034-b5b8-54544c74a230
+      - youtube: 3Fzobwa1nMg
+        unofficial: false
+        text: 公式試聴
+- id: digital_release_only
+  title: 配信でのみリリース済みで、デレステ/デレスポには実装されていない曲
+  description: たぶんデレステ/デレスポに実装されることはないんじゃないかなあ…。
+  needs_not_spot_release: true
+  needs_digital_release: true
+  songs:
+    - title: Hotel Moonside (Extended Live Version)
+      description: Hotel Moonside のマジでかっこいい Extended Version。最高。
+      links:
+      - ototoy: 58853
+      - mb_recording: 31defb41-4c8b-4ea2-8f4e-fbbfe69172b0
+      - mb_work: a51ed7f1-cc2a-4c91-baa3-f006b5b9b1fa
+      - youtube: 1prjVlHtp60
+        unofficial: false
+        text: 公式試聴
+- id: only_in_spot
+  title: CD・配信共に未リリースだが、デレステ/デレスポにはある曲
+  description: "デレスポ/デレステで聞くしかない (一部公式 YouTube あり)。時間が経ってからこのページを見に来た人は MB: Work のリンクを見るとリリースがわかるかも。早くフルを聞かせてくれ！！111"
+  needs_spot_group: true
+  songs:
+    - title: Demolish
+      description: かっこよすぎる。苦手な人もいるかもしれないとは思うが俺はかなり好き
+      links:
+      - mb_work: 623a1b69-d61a-42b5-b014-ab3fd7affad9
+      - youtube: 05ZnooYQqHE
+        unofficial: true
+        text: 非公式 3DMV
+      - spot_group: "STARLIGHT STAGE"
+    - title: ストリート・ランウェイ
+      description: かっこよすぎる・ツー。こういう曲調が大好物のひとつなので他にもあったら教えてください
+      links:
+      - mb_work: 7b73e73f-3c31-4b70-9b11-f62beed5760c
+      - youtube: EFzec-BolWs
+        unofficial: false
+        text: 公式 2Dリッチ
+      - spot_group: "STARLIGHT STAGE"
+    - title: ラビューダ♡トライアングル
+      description: <del>エロゲ</del>美少女ゲーのOPっぽい。好き。
+      links:
+      - mb_work: a71b5ba0-61e8-451b-ae36-3b93bf017a62
+      - youtube: qaq8v7EbegY
+        unofficial: true
+        text: 非公式 3DMV
+      - spot_group: "STARLIGHT STAGE"
+    - title: New bright stars
+      description: 10thライブのファイナル公演用に書かれた曲。周年曲感のあるエモさがあってよい。<del>出だしでほんのすこし<a href="https://musicbrainz.org/work/e874a076-210e-40a9-8c26-4475f6bb460b">ウィンドガーデン (スーパーマリオギャラクシー)</a>を思い出してしまう</del>
+      mb_work: 7c291ec3-bd08-44f4-bc03-265ca79dd89d
+      links:
+      - mb_work: 7c291ec3-bd08-44f4-bc03-265ca79dd89d
+      - youtube: ejVvxSL18Ko
+        unofficial: false
+        text: 公式 2Dリッチ
+      - spot_group: "STARLIGHT STAGE"
+- id: only_in_cd
+  title: CDのみリリース済みで、配信はされておらずデレステ/デレスポにも実装されていない曲
+  description: まあそのうちデレステ/デレスポにも入ると思う。配信はたぶんデレステ/デレスポに入った後。
+  needs_not_spot_release: true
+  songs:
+    - title: Reflective illumination night
+      description: 渋谷凛のソロ3曲目。本当に最高。2:25あたりが特に好き。
+      links:
+      - mb_rg: be0b7963-151b-4092-b0de-8f4ee1b8c3a8
+      - mb_work: 8b3e0624-369e-4d39-a6cb-4df56eda7192
+      - youtube: aaQ_KL9qK5Q
+        unofficial: false
+        text: 公式試聴
